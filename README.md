@@ -113,7 +113,7 @@ pip install pandas numpy seaborn matplotlib scikit-learn
 ## 👩‍💻 نویسنده
 
 محبوبه میرشکار 
-متخصص یادگیری ماشین و بهینه‌سازی  
+  
 📧 niayeshmirshekar92@gmail.com  
 📸 اینستاگرام: [airobo_project](https://instagram.com/airobo_project
 🔗 لینکدین: https://www.linkedin.com/in/mahbubeh-mirshekar-999640170/
