@@ -116,8 +116,7 @@ pip install pandas numpy seaborn matplotlib scikit-learn
 متخصص یادگیری ماشین و بهینه‌سازی  
 📧 niayeshmirshekar92@gmail.com  
 📸 اینستاگرام: [airobo_project](https://instagram.com/airobo_project
-🔗 لینکدین: [linkedin.com/in/mahboubeh-ai](https://linkedin.com/in/mahboubeh-ai)
-
+🔗 لینکدین: https://www.linkedin.com/in/mahbubeh-mirshekar-999640170/
 ---
 
 ## 💡 پیشنهاد برای ادامه مسیر
